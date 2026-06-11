@@ -1,0 +1,12 @@
+{
+  "name": "duration-bpm",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc && cp index.html dist/"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}

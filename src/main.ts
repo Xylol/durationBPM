@@ -12,7 +12,7 @@ function addRow(duration = "1", bpm = 120): void {
   row.className = "row";
   row.innerHTML = `
     <label>Duration (min, or "23s")
-      <input type="text" class="duration" inputmode="decimal" value="${duration}">
+      <input type="text" class="duration" value="${duration}">
     </label>
     <label>BPM
       <input type="number" class="bpm" min="20" max="400" step="1" value="${bpm}">

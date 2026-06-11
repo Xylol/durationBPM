@@ -1,3 +1,3 @@
 # durationBPM
 
-Play beats per minute for a timespan and adjust if needed
+Play beats per minute for a timespan then change if needed 
